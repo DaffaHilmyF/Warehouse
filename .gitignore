@@ -1,0 +1,5 @@
+node_modules
+cypress/cucumber-json
+cypress/video
+cypress/screenshots
+cypress/report/mochaawesome-report
